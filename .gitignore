@@ -1,0 +1,7 @@
+*~
+*.swp
+*.swo
+*.out
+*.err
+*.bak
+.DS_Store
